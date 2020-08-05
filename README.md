@@ -23,11 +23,11 @@ This application is deployed to Heroku. If you go to the deployed site, you can 
 
 ### Step 1
 
-![step 1](public/assets/readme_images/step1.png)
+![step 1](public/images_readme/step1.png)
 
 ### Step 2
 
-![step 1](public/assets/readme_images/step2.png)
+![step 1](public/images_readme/step2.png)
 
 
 
